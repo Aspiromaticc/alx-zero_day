@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 !#/bin/bash
+=======
+#!/bin/bash
+<<<<<<< HEAD
+>>>>>>> 0467f9e5f9787fd0dec2a28da7d42543049c24bb
 echo "ALX School"
 =======
 echo "ALX School"
